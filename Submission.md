@@ -1,4 +1,3 @@
-
 ## Which Categories Best Fit Your Submission and Why?
 
 Best Portability (or Best contribution to operational tools, availability, management or Best new feature)
@@ -10,13 +9,13 @@ We ported the end to end middleware focused aspects of the NetflixOSS platform f
 This project included porting the following:
 
 * Oracle/Open Java to IBM Java
-** Asgard Sever, Archaius, Karyon/Governator, Eureka Client, Hystrix, Ribbon, Astyanax
+ * Asgard Sever, Archaius, Karyon/Governator, Eureka Client, Hystrix, Ribbon, Astyanax
 * Tomcat to WebSphere Liberty Profile
-** Archaius, Karyon/Governator, Eureka Client, Hystrix, Ribbon, Astyanax
+ * Archaius, Karyon/Governator, Eureka Client, Hystrix, Ribbon, Astyanax
 * Amazon EC2 to IBM SoftLayer
-** Eureka Server, Simian Army/Chaos Monkey
+ * Eureka Server, Simian Army/Chaos Monkey
 * Amazon Auto Scaling Groups to RightScale Server Templates, Monitoring, RightScripts, and Server Arrays
-** Auto Scaling and Auto Recovery
+ * Auto Scaling and Auto Recovery
 
 ## Provide Links to Github Repo's for your Submission
 
